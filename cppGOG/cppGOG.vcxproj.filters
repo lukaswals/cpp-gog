@@ -36,4 +36,8 @@
       <Filter>Header Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\matlab\README.md" />
+    <None Include="..\matlab\run_tracker.m" />
+  </ItemGroup>
 </Project>
